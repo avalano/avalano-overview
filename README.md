@@ -1,3 +1,3 @@
 <p align="center">
-![Avalano Cover Image](./cover.png)
+<img src="./cover.png" />
 </p>
