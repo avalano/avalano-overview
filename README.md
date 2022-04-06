@@ -1,1 +1,1 @@
-# avalano-overview
+![Avalano Cover Image](./cover.png)
