@@ -1,3 +1,3 @@
 <p align="center">
-<img src="./cover.gif" />
+<img src="./cover.mp4" />
 </p>
